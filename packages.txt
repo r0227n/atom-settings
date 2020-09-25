@@ -1,6 +1,8 @@
 atom-beautify@0.33.4
 atom-drawio@1.15.0
 atom-html-preview@0.2.6
+atom-runner@2.7.1
+autocomplete-python@1.16.0
 file-icons@2.1.43
 git-log@0.4.1
 git-plus@8.7.1
@@ -17,7 +19,10 @@ markdown-writer@2.11.10
 merge-conflicts@1.4.5
 minimap@4.29.9
 minimap-autohide@0.10.1
+minimap-cursorline@0.2.0
+minimap-find-and-replace@4.5.2
 minimap-highlight-selected@4.6.1
+minimap-lens@0.8.1
 monokai@0.24.0
 pandoc-convert@1.1.1
 platformio-ide-terminal@2.10.0
